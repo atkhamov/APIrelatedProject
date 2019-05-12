@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeTaskApi2</string>
+    <string name="title_deal">Deal</string>
+    <string name="title_goods">Goods</string>
+    <string name="title_purchases">Purchases</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="price">от %d тг.</string>
+    <string name="bought">%d</string>
+    <string name="rate">%s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
